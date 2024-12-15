@@ -148,7 +148,7 @@ O usuário solicita para exibir a lista.
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/ListaDeCompras.git
+git clone https://github.com/GustavoSmaniottoo/ListaDeCompras.git
 
 # Acesse a pasta do projeto
 cd ListaDeCompras
